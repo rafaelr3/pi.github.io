@@ -1,4 +1,12 @@
-# alchemy as hieratic art, henry corbin
+---
+layout: post
+title:  alchemy as hieratic art, henry corbin
+date: 2020-6-20 
+description: quote on the alchemy
+categories: imagination
+related_posts: true
+---
+
 
 link: http://www.aaroncheak.com/alchemy-as-a-hieratic-art
 
