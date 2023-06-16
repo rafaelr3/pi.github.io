@@ -3,7 +3,7 @@ layout: post
 title:  alchemy as hieratic art, henry corbin
 date: 2020-6-20 
 description: quote on the alchemy
-categories: imagination
+categories: henrycorbin imagination alchemy process intermezzo rolandfaber alfrednorthwhitehead
 related_posts: true
 ---
 
