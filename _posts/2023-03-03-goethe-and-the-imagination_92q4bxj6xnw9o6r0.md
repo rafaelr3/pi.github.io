@@ -1,7 +1,7 @@
 ---
 layout: post
 title: goethe and the imagination
-date: 2023-05-03 
+date: 2023-03-03 
 description: quote on the imagination
 categories: imagination
 related_posts: true
