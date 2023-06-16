@@ -250,7 +250,7 @@ scholar:
   last_name: [Reyes III, Ph.D.]
   first_name: [Rafael]
 
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/
