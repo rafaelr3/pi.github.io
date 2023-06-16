@@ -1,0 +1,3 @@
+# quote from "being singular plural by jean-luc nancy
+
+>"To reach [toucher] the end" is again to risk missing it, because the origin is not an end. End, like Principle, is a form of Other. To reach the origin is not to miss it; it is to be properly exposed to it.  Since it is not another thing (an aliud), the origin is neither "missable" nor appropriable (penetrable, absorbable). It does not obey this logic.  It is the plural singularity of the Being of being. ~13.

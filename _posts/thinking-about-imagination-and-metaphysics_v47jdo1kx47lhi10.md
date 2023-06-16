@@ -1,0 +1,7 @@
+# Thinking about #Imagination and #metaphysics
+
+My dissertation is on the imagination and its necessity in discussions within religious pluralism.  So one of my walking partners is john sallis, who writes within the field of continental thought and phenomenology.  His work on Imagination is wonderful, specifically on the tension the imagination introduces in #logic so as to not conform to its "desires."  And yet, for Sallis, this too introduces another breaking, one of metaphysics.
+
+Now, I am a Whiteheadian thinker, which begins with the understanding that all is process, that we all are always forming from events, occasions within a specific space and time at each moment.  These events make up who we are, and we ultimately become actual objects, a datum for feeling in the immediate future.  For Whitehead, the possibilities are endless, but we still require a metaphysics, something that brings us all together.  However, at every moment our metaphysics gets entangled with the experiential reality of relations, events, etc., which iconoclast what we once believed was true.
+
+How do I couple the two together, an imagination that breaks logic and metaphysics, yet at the same time returns to it?  That is the question I am working on.

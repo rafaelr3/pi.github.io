@@ -1,0 +1,19 @@
+# horizontal-izing the vertical, eradicating the extremes: scales of value
+
+When we think we think in bifurcations. Up/down. Left/right. Right/wrong. This way of thinking causes either/or mentality. It indicates that one is right, and the other is wrong.
+
+But what would happen if we flatten it out? We make what is vertical thinking horizontal? What if we said that in order to have one, you need the other? That it is relationally intertwined so that if one does not exist, the other does not?
+
+Now what if we got rid of the extremes altogether? Instead of right and wrong, just or unjust, we have scales of lesser or greater value. You see, what is absolutely right, absolutely wrong? When we incorporate culture, education, values, race, class, etc., etc., all the categories (if we can break ourselves down to categories), or better yet, when we know ourselves, we develop values that shape our world.
+
+We see this quite often: for example, in politics we have democrats and republicans; but do we really side with one or the other, completely? Maybe, maybe not. What we tend to do is see which values are important, which values coincide with our values, and then gauge the other values if they are game changers in who or which side we want to choose. It is a scaling of values.
+
+Whitehead, in his book *Process and Reality*, speaks on the idea of prehensions, how we feel the world around us, and make decisions, the becoming of being, since all being is a concrescence, a finalizing of the process of becoming. But this becoming part of us, the concretizing by making a choice a decision, a value judgement, is not, should not, and must not, be governed by outside values. Yes they do shape us. But then we realize that we have a connection to it, we develop a relation to it, since it connects or becomes, in a way, connected to us. But since we ourselves have intrinsic value, we ultimately decide what we are to do in the immediate context we are in. Whitehead writes, “Each temporal entity, in one sense, originates from its mental pole, analogously to God himself. It derives from God its basic conceptual aim, relevant to its actual world, yet with indetermination awaiting its own decisions.” (Just want to thank Timothy Murphy who brought me to this quote and dialogued on it. Whitehead, Process and Reality, 224) Here Whitehead is saying that although we may get our initial aim from God, but this initial aim is shaped by the context you are in, not outside of it. But more importantly, it is indeterminate, because we too, since we have intrinsic value, and are becoming what we are to be, must decide. So there are no rights and wrongs, but rather scales of it dependent on the context you are in.
+
+This provides us with much to think about. Our context in one way shapes what values we should take on, what is important. The initial aim that God has given to us based on our context also provides value shaping guidance. But the ultimate determination is ourselves, which unifies it all so an emerging value is formed.
+
+Now this emerging value, then, requires all forms of “datum” (everything that requires valuation), and this also means that nothing is sacred/demonized. All is value. This is the complex unity which is ourselves.
+
+When we see how horizontal-izing the vertical bifurcations changes the way we are to think about value, value becomes multiplicitous. The forms, the ultimates, become eternal objects (as Whitehead calls them) that help us in the shaping process. The end goal is the value we emerge from ourselves in the relation of all that we take in.
+
+When we make horizontal the vertical bifurcations we normally work with, it no longer becomes an either/or finality that we search for, but a relational journey that we dive deeper into.

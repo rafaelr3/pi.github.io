@@ -1,0 +1,3 @@
+![](https://i.snap.as/V026kXa.jpg)
+
+What happens to the loss of imagination...

@@ -1,0 +1,9 @@
+# The struggle for meaning
+
+This is just a quick post from the top of my head.  There is a struggle for meaning in the world today.  With the immensity of data that is being projected into the world, it becomes so difficult to suggest that there is a unity of meaning, because what happens behind the image, especially in social media, and media marketing, is an intentional meaning which tries to get at you.  It is intentional because it wants to get at your internal feelings, to create an external outcome, aka tell you a sad story to compel you to buy insurance to make sure your loved one is safe.
+
+Because of these images, there is a push for local forms of meaning that are against the more secular understandings.  Local forms can be found in communities, religious groups, etc.  They can be expressed in intentional communities that get one away from power, and reliance on digital devices, a return to a more simpler way of living.
+
+It is interesting, that a slower, simpler way of living is necessary for meaning to be found, rather than the immediacy of life.  I am not talking about intuition, which gives us, in an instant, the universe as an image with all within it.  I mean the intuition without the space for thinking through it.  The forced expectation to have an immediate response due to what is given.  But that is not meaning.  It is a formal response, but barren in any meaning beyond it.  Thus the formal response is the meaning.  Only one.
+
+This is why we turn to local meanings!  It is a push against the singular meaning, that it is all there is.  A push that says there is more...

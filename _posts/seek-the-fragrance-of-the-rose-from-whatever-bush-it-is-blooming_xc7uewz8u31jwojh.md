@@ -1,0 +1,5 @@
+# seek the fragrance of the rose, from whatever bush it is blooming
+
+![](https://i.snap.as/2jTX1Ss.jpeg)
+
+> There was a former springtime, and there is a springtime now. No other difference exists because the foundations are the same. Whoever acts completely in accordance with the teachings of Christ is a Baha’i. The purpose is the essential meaning of Christian, not the mere word. The purpose is the sun itself and not the dawning points. For though the sun is one sun, its dawning points are many. We must not adore the dawning points but worship the sun. We must adore the reality of religion and not blindly cling to the appellation Christianity. The Sun of Reality must be worshiped and followed. We must seek the fragrance of the rose from whatever bush it is blooming–whether oriental or western. Be seekers of light, no matter from which lantern it shines forth. Be not lovers of the lantern. – Abdu’l-Baha, The Promulgation of Universal Peace, p. 247.

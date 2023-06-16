@@ -1,0 +1,5 @@
+# quote from "green man, earth angel" by tom cheetham
+
+>And *we cannot* keep our balance.  Myth gives way to Reason. Revelation to Orthodoxy. We must dance or go mad. ~ Tom Cheetham, GMEA, 7.
+
+Tom Cheetham here references three terms or presences, mythos, pathos, and logos.  All three are necessary, and engage beyond what in science is termed materialism.  He rather begins with mythos, the opening up into a mystery, the creative imagination, which once one is realized into that space, becomes pathos, reason, making sense of the world, the event, the factuality.  This then gives rise into orthodoxy, logos, articulation into language.  It is a movement from mystery into order, or mystery into realization.  This realization is not only within science, which is a very narrow view of the cosmos, but requires sensitivity into subtle realities, subtle particularities.

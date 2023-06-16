@@ -1,0 +1,1 @@
+Language is a tricky thing. When spoken it does not reveal its history or it's ideals. Whose history are we accepting? Whose ideals are we following? What America are we talking about? Whose God are we following?

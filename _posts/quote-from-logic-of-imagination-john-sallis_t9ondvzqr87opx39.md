@@ -1,0 +1,3 @@
+# quote from john sallis, logic of imagination, pg 96
+
+> "Nothing attests more forcefully to the exorbitance of imagination than its violation of logic's most ineluctable proscription, its infraction of the most firm, steadfast, sure principle.  Indeed the decisive indication is not just that certain contradictions, but also that delight is taken in flouting this supreme prohibition, as if contradiction were borne in the very impetus of imagination."

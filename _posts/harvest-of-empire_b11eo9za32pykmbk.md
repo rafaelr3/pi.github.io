@@ -1,0 +1,1 @@
+[Harvest of empire](https://docs.google.com/presentation/d/1tAxyQL_HT9UwfH9dLuAU4WmQNeYGVP3Hl0o6TXo5Bxg/edit?usp=sharing)

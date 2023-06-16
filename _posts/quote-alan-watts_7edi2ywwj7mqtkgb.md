@@ -1,0 +1,3 @@
+# quote, alan watts
+
+> Advice? I don’t have advice. Stop aspiring and start writing. If you’re writing, you’re a writer. Write like you’re a goddamn death row inmate and the governor is out of the country and there’s no chance for a pardon. Write like you’re clinging to the edge of a cliff, white knuckles, on your last breath, and you’ve got just one last thing to say, like you’re a bird flying over us and you can see everything, and please, for God’s sake, tell us something that will save us from ourselves. Take a deep breath and tell us your deepest, darkest secret, so we can wipe our brow and know that we’re not alone. Write like you have a message from the king. Or don’t. Who knows, maybe you’re one of the lucky ones who doesn’t have to.

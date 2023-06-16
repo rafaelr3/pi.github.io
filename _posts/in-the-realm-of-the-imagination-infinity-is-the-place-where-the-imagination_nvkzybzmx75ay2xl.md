@@ -1,0 +1,3 @@
+> In the realm of the imagination, infinity is the place where the imagination asserts itself as pure imagination, where it is free and alone, vanquished and victorious, proud and trembling.  Then images soar upward and vanquish; the rise and are shattered by their very height.  Then the realism of unreality is evident.  Forms are understood through their transfiguration.  Speech is prophecy. In this way, the imagination is indeed a way of going beyond, psychologically.
+
+~Gaston Bachelard, Air and Dreams, 5
