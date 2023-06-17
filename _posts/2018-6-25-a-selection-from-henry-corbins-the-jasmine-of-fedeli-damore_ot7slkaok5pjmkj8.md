@@ -1,4 +1,12 @@
-## a selection from henry corbin's _the jasmine of fedeli d'amore_
+---
+layout: post
+title: a selection from henry corbin's _the jasmine of fedeli d'amore_
+date: 2018-6-25 
+description: quote on the imagination
+categories: henrycorbin love imaginal imagination multiplicity beyondreligion religion whiteheadsrationalreligion whiteheadsexpressivereligion
+related_posts: true
+---
+
 
 I am in the middle of writing my chapter on Imagination and the space of multiplicity, when I found this wonderful piece of translation and interpretation by Corbin, and had to add it here for rememberance.  Here it goes:
 
