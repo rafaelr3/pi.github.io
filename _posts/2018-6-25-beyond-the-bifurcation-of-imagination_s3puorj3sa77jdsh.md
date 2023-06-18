@@ -1,3 +1,11 @@
+---
+layout: post
+title: a selection from henry corbin's _the jasmine of fedeli d'amore_
+date: 2018-6-25 
+description: quote on the imagination
+categories: #AmyKind #PeterKung #JohnSallis #AlfredNorthWhitehead #imagination #repetition #actualoccasion #transcendentimagination #instructiveimagination #nonbifurcationofimagination
+related_posts: true
+---
 # beyond the bifurcation of imagination
 
 Reading Amy Kind and Peter Kung's magnificent edited work _Knowledge Through Imagination_, and am thinking through it's implications.  For Kind/Kung, their goal in the text is to lift up the instructive implications of the imagination over and beyond the transcendent capabilities.  
