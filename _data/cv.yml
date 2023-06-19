@@ -11,22 +11,31 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Claremont School of Theology
+    - title: Doctor of Philosophy
+      institution: Claremont School of Theology, Claremont, CA
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Focus: Process Philosophy, Religion, Continental Thought
+        - Dissertation: “Open Receptacles: Imagination in Continental and Process Thought, and the Opening of Religious Pluralism”
+        - Dissertation Chair: Roland Faber
+    - title: Master of Arts in Religion
+      institution: Claremont School of Theology, Claremont, CA
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Comprehensive Examinations - Subjects: Process Philosophy & Theology, Liberation Theologies (Black, Ecology, Latino, Queer), 
+Comparative Theologies (Christianity, Indian Religions (Buddhism, Hinduism, Jainism, Sikhism), Islam), Postmodernism & Poststructuralism (Derrida, Deleuze, Foucault, Baudrillard, Caputo)
+    - title: Sacred Theology Masters
+      institution: Drew Theological School, Madison, NJ
+      year: 2010
+      description:
+        - Thesis: Kabash as Diffraction
+        
+   - title: Master of Divinity
+      institution: New York Theological Seminary, New York
+      year: 2008
+   - title: Master of Arts, New Testament Studies
+      institution: Alliance Theological Seminary, Rockland, NY
+      year: 2004
 
 - title: Experience
   type: time_table
