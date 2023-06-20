@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I have taught in cutlure, theology, and philosophy
+description: Courses I have taught in culture, theology, and philosophy
 nav: true
 nav_order: 5
 ---
