@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a selection from henry corbin's _the jasmine of fedeli d'amore_
+title: beyond the bifurcation of imagination
 date: 2018-6-25 
-description: quote on the imagination
+description: on focusing the imagination
 categories: #AmyKind #PeterKung #JohnSallis #AlfredNorthWhitehead #imagination #repetition #actualoccasion #transcendentimagination #instructiveimagination #nonbifurcationofimagination
 related_posts: true
 ---
