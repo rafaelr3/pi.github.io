@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Rafael Reyes
-    - name: Date of Birth
-      value: 7th January 1976
     - name: Languages
       value: English, Spanish, French (Read)
 
@@ -15,14 +13,18 @@
       institution: Claremont School of Theology, Claremont, CA
       year: 2019
       description:
-        - Focus: Process Philosophy, Religion, Continental Thought
-        - Dissertation: Open Receptacles - Imagination in Continental and Process Thought, and the Opening of Religious Pluralism
-        - Dissertation Chair: Roland Faber
+        - Focus - Process Philosophy, Religion, Continental Thought
+        - Dissertation Title - Open Receptacles - Imagination in Continental and Process Thought, and the Opening of Religious Pluralism
+        - Dissertation Chair - Roland Faber
     - title: Master of Arts in Religion
       institution: Claremont School of Theology, Claremont, CA
       year: 2016
       description:
-        - Comprehensive Examination Subjects - Process Philosophy & Theology, Liberation Theologies (Black, Ecology, Latino, Queer), Comparative Theologies (Christianity, Indian Religions (Buddhism, Hinduism, Jainism, Sikhism), Islam), Postmodernism & Poststructuralism (Derrida, Deleuze, Foucault, Baudrillard, Caputo)
+        - title: Comprehensive Examination Subjects
+          - Process Philosophy & Theology
+          - Liberation Theologies (Black, Ecology, Latino, Queer)
+          - Comparative Theologies (Christianity, Indian Religions (Buddhism, Hinduism, Jainism, Sikhism), Islam)
+          - Postmodernism & Poststructuralism (Derrida, Deleuze, Foucault, Baudrillard, Caputo)
     - title: Sacred Theology Masters
       institution: Drew Theological School, Madison, NJ
       year: 2010
