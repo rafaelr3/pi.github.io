@@ -20,14 +20,14 @@ nav_order: 5
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_teaching -%}
-      {% include teaching_horizontal.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_teaching -%}
-      {% include teaching.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -40,15 +40,15 @@ nav_order: 5
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_teaching -%}
-      {% include teaching_horizontal.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_teaching -%}
-      {% include teaching.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
