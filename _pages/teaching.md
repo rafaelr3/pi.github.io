@@ -18,18 +18,20 @@ nav_order: 5
 - __Queer Theologies__
     - This is an introductory course that explores the aims and methods of queer theology. "Queer" theology transgresses and subverts dominant constructions of sexuality and gender identity, reinterpreting and reconstructing expressions of Christian thought and practice that forces one to rethink understandings of human life, community, and the divine.  We will explore “queer approaches” to theology, especially where notions of identity (esp. gender and sex, but also race, ethnicity, class, ability) are concerned. We will also look at arguments, as well as look beyond, concerning the inclusion of sexual minorities into Christian communities. In this course, we will learn to engage in "queering" Christian theology and biblical interpretation to inquire about the benefits and usefulness of queer theory as a tool for constructive theological projects and Christian practices.
 - __World Religions in the City: An Exploration in Diversity__
-    -This course introduces the study and diversity of religion. It explores the major world religious traditions that are found throughout the life of the City: Judaism, Islam, Hinduism, Buddhism and Baha’i. The course is interdisciplinary in that it includes material from historical, literary, philosophical, and theological insights into the world's religions.
-
+    - This course introduces the study and diversity of religion. It explores the major world religious traditions that are found throughout the life of the City: Judaism, Islam, Hinduism, Buddhism and Baha’i. The course is interdisciplinary in that it includes material from historical, literary, philosophical, and theological insights into the world's religions.
     In a city where we are becoming increasingly aware of the cultural diversity and richness, exploring the religious life and consciousness of a people is one way of gaining access to that diversity. 
-
     Some questions we will explore in each tradition: How do people in each tradition articulate the central symbols, tenets, and practices of their faith in the context of the questions and challenges of the modern world? How do people in each tradition think about their own faith in the light of the diversity of other religious traditions? Is religious diversity and difference a problem? What is the spectrum of religious perspectives within each tradition?
 
 - Multifaith Critical Interpretation Seminar
 - __Religious Pluralism, Truth and the Pluralist Imagination__
     - Religious Diversity is an actual fact and can also be a problem.  It is an actual fact because of what we experience in the complex reality of our world; it is a problem because of the interaction between religions; but more importantly, because of the interactions, and thus implications within religions.  The discussion of the manyness of religions lead to questions of the validity of religious truth: is it inclusive or exclusive? Who holds the ultimate truth?  But a more important question is involved: is religious diversity welcomed?  If so, is it to be accepted as an aspect of reality, or as an ideal that we move towards?
-    
     This class will investigate diverse ways of describing and discussing the plurality and unity of religions by viewing it through the Pluralist Imagination, which maintains the position of relativity and plurality of truths.  We will also look at the paths of salvation/liberation, how the unity of religions can be conceptualized through a world theology.
 
-- Redefining the Human Self: A Theological Anthropology
+- __Redefining the Human Self: A Theological Anthropology__
+    - For many Westerners, the definition of what it means to be human has passed through theological, rational, and scientific frameworks.  For Aristotle it meant having an appropriate end or goal -- and to belong to a polis where "man" could truly speak and become.  For Augustine, to be human is to have a consciousness, and be aware of one’s whole in relation to the self (interiority) and others (exteriority).  
+However, what was not apparent, or even considered, were the intersections of gender, sexuality, and race.  As a result, the definitions of what it means to be human really considered only some humans at the center of the universe, disparaging 'the woman,' 'the subaltern,' and 'the non-European.'  
+This independent study will explore, critique, and seek to redefine what it means to be human by moving from a universal/particular worldview model to a singular/multiplicitous model by beginning from the intersections of gender, sexuality, and race.  We will also incorporate a post-liberationist and archetypal spirituality to further define a theological anthropology.
+ 
 - Critical Interpretation for Ministry (Hybrid)
-- Introduction the Catholic Theology (2x)
+- __Introduction the Catholic Theology__
+    - This course is an introduction to Catholic Theology.  It will focus on the theological developments and controversies that have shaped the Christian thought from the fourth to twenty-first centuries, including: the essence and persons of the Trinity, the person and natures of Jesus Christ, theological anthropology, soteriology, the Eucharist, differences between Catholics and Protestants and the Catholic response to ecumenism, pluralism and relativism.  
