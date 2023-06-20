@@ -21,6 +21,7 @@
       year: 2016
       description:
         - title: Comprehensive Examination Subjects
+          contents:
           - Process Philosophy & Theology
           - Liberation Theologies (Black, Ecology, Latino, Queer)
           - Comparative Theologies (Christianity, Indian Religions (Buddhism, Hinduism, Jainism, Sikhism), Islam)
@@ -40,9 +41,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Director of Student Life and Community Engagement
+      institution: Katz School of Science and Health, Yeshiva University
+      year: 2022 - Present
       description:
         - Description 1.
         - Description 2.
