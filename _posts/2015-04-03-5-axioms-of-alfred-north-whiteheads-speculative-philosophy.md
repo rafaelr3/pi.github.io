@@ -1,3 +1,12 @@
+---
+layout: post
+title: 5 axioms of alfred north whitehead's speculative philosophy
+date: 2015-04-03
+description: 5 axioms of alfred north whitehead's speculative philosophy
+categories: imagination creativeimagination
+related_posts: true
+---
+
 # 5 axioms of alfred north whitehead's speculative philosophy
 
 In describing his Speculative Philosophy, Alfred North Whitehead shapes two categories; a rational side and empirical side.  The rational is that of analysis: the empirical, that of value, importance.
