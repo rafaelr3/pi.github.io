@@ -7,8 +7,6 @@ categories: imagination creativeimagination
 related_posts: true
 ---
 
-# 5 axioms of alfred north whitehead's speculative philosophy
-
 In describing his Speculative Philosophy, Alfred North Whitehead shapes two categories; a rational side and empirical side.  The rational is that of analysis: the empirical, that of value, importance.
 
 The rational side in his metaphysics, or speculative philosophy, is found in the terms coherence and logic (consistency), “a coherent, logical, necessary system of general ideas in terms of which every element of our experience can be interpreted.” Working with Michel Weber's text, *Whitehead's Pancreativism: The Basics*, I hope to better understand what Whitehead is trying to do in his formation of Speculative Philosophy of Process.

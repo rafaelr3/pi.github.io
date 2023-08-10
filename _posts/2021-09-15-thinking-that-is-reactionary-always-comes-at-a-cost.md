@@ -1,3 +1,12 @@
+---
+layout: post
+title: reflection on thinking that is reactionary
+date: 2021-09-15
+description: thinking that is reactionary
+categories: thinking reactionary
+related_posts: true
+---
+
 > Thinking that is reactionary always comes at a cost. It starts with an act of rejection, yet more often than not it remains committed to the logical framework that it apparently rejects.
 ~ Sepper, _Understanding Imagination_, 3.
 

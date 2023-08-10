@@ -1,3 +1,13 @@
+---
+layout: post
+title: truth, religion, process
+date: 2015-05-19
+description: truth, religion, process
+categories: truth religion process
+related_posts: true
+---
+
+
 # truth, religion, process
 
 One of my main interests throughout my education has been trying to answer the question, “What is truth? What is ultimately true?” Now any reader may brush this off as not important, since we live in a postmodern/postcolonial world, but I would argue against that for various reasons.  For simplicity I will hold to religion as my focal point; However, this can be used in any area: science, anthropology, sociology.  All of these fields as well as many others can take hold of a primary position, making everything else subservient to it.  It is better to develop harmonies among fields, integrating, becoming interdisciplinary, becoming more complex, to better understand who we are, and our deep connections to the world around us.  But the goal here is to discuss how older notions of truth are unable to handle the reality of postmodernity and poststructuralism.  However, there remains an issue in these fields; deconstruction cannot be the finality of a thing.  A reconstruction, through imagination is important.
