@@ -15,26 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is my third attempt, maybe 4th at a blog.  I have maintained them for some time, but the last one I removed due to realizing that maybe I had nothing to say of significance.  That is until a lengthy discussion with a colleague spurred me to once again tackle this space on the web.
-
-I believe that one of my issues in the past has been that instead of footnotes to thinkers, I stood behind them.  Let me explain.  In Alfred North Whitehead's Process and Reality, he writes
-
-> The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.[^1]
-
-
-This is not to mean that they are footnoting the systematic thought of Plato, but rather something much more important: they are grasping ideas that arise from his thought and thinking on it.  This is much more profound.  They are looking at the text, and instead of the same repetitive systematic thought, they are seeing novel things.  These are footnotes to Plato.
-
-For me, however, I stood behind the repetitive portion of thinkers such as Alfred North Whitehead, Gilles Deleuze, Roland Faber, and not looked for the novel in their work. I have stood behind them instead of using them as footnotes.  Thus, this is the task that lays before me in this blog, not to shy away and stand behind these great thinkers, but rather to think something new by understanding their work, by making them my dialogue partners, developing an image of thought for the problems I am encountering.  In that way I develop my own work, using them as steps, honoring them in every step used.
-
-# the title
-
-Process Imagining comes from my own work, which is actually a dissertation I am working on.  It is my contention that truth is basically poetic truth, a harmonization between logic and coherence, adequacy and applicability.  It holds to a speculative philosophy that says that the metaphysics that we use must begin with the most concrete form of experience, and not from the general ideas.[^n]  Thus, truth is not the ground where we begin but part of a process for a lure for feeling.  In the process of this lure for feeling, what is pertinent is free imaginative generalization, which is the removal of truth so possibilities can have their way.  Without imagination, it becomes difficult to move beyond repetition, repetition in choosing between options.  Imagination shows us how many different worlds can harmonize and create something that is novel.
-
-I argue against a truth that is primarily logical for all things, thus forming a transcultural style of truth.[^2] Rather I argue a truth that is informed at all times by the imagination.  Truth, therefore, becomes applicable to a specific event, but not for all events.
-
-Without giving away all of my dissertation, if life is not about truth but rather lure for feeling (we are feeling entities), what is important are propositions, inquiries, adventure, imagination.  Thus process imagining.
-
-# the site
 
 As the subheading states, rethinking philosophy, culture, and religion.  If I understand thinkers such as William James, Alfred North Whitehead, Herny Bergson, Gottfried Liebniz and Gilles Deleuze correctly, or at least in their trajectory, all of life is a process, about relations, relationality.  Thus, every category of our existence comes into question since the world around us (and by world I mean the virtual world that begins with economics, capitalism, etc) is based on a substance based metaphysic.
 
@@ -66,4 +46,3 @@ Welcome to processimagining.com!
 
 [^4]: Ibid., p. 174.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
