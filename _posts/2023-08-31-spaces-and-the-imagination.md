@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spaces and the imagination
-date: 2023-08-11
+date: 2023-08-31
 description: understanding imagination, space and context in Gaston Bachelard and Alfred North Whitehead
 tags: alfred-north-whitehead gaston-bachelard imagination space context
 categories: imagination space philosophy
