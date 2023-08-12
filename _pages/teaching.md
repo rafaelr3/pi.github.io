@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-- __Introduction to Philosophy__
+##__Introduction to Philosophy__##
     - This course aims to provide an examination of issues relating to knowledge, reality, and morality.  Issues examined include: Can we know anything? How can we know? Is morality merely a personal opinion? Does God exist? Questions come from the main branches of philosophy such as Logic, ethics, metaphysics, epistemology, philosophy of religion
 
 - __Ancient and Medieval Philosophy__
