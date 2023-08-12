@@ -1,4 +1,12 @@
-# god in the making
+---
+layout: post
+title: god in the making
+date: 2015-04-01
+description: describing god on the basis of religious experience
+tags: roland-faber god pluralism religious-pluralism religious-experience
+categories: roland-faber god pluralism religious-pluralism religious-experience
+related-posts: true
+---
 
 Dr. Roland Faber’s article titled ”God in the Making,” from the journal Aletheia is by far one of the best accounts of understanding Whitehead’s work in describing God on the basis of religious experience. I will try and do it some justice in this writing, but I would highly suggest you read it and come up with some creative responses.
 
