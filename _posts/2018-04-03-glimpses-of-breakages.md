@@ -1,5 +1,12 @@
-## glimpses of breakages
-![](https://i.snap.as/YnwQ0DO.jpg)
+---
+layout: post
+title: glimpses of breakages
+date: 2018-04-03
+description: I look for breakages, places where things are broken, the cracks.
+categories: foucault whithead process-thought anarchy steiner
+related_posts: true
+---
+
 
 As quiet as I am, as often times I may accept status quo, I'm anarchic.  I fight, inwardly, on how to break free, to respond to questions that some have said is not possible, too hard.  And in my own writing I am trying to break free from the move towards sciences as the best purveyor of what things are and how things are.
 

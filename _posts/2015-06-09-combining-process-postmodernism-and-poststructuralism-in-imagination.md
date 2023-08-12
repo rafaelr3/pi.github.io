@@ -1,4 +1,12 @@
-# combining process, postmodernism, and poststructuralism in imagination (work in progress)
+---
+layout: post
+title: combining process, postmodernism, and poststructuralism in imagination
+date: 2015-06-09
+description: postmodernity, post-structuralism and process
+categories: postmodernism post-structuralism process-thought imagination
+related_posts: true
+---
+
 
 I haven’t written a blog post in a bit, and wanted to at least throw out there what I am studying on, writing on.
 
